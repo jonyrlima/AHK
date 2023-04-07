@@ -1,4 +1,4 @@
-# AutoHotkey - Entrada Simples de Dados
+# AutoHotkey - entrada_dados.ahk Entrada Simples de Dados
 
 Este script AutoHotkey permite aos usuários inserir e visualizar dados (nome e idade) de pessoas e armazená-los em um arquivo `dados.txt` na Área de Trabalho (Desktop). Ele fornece uma interface gráfica do usuário (GUI) simples para entrada e visualização de dados.
 
@@ -39,3 +39,6 @@ Por favor, certifique-se de atualizar os testes conforme apropriado.
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+$move_arquivo.ahk
+Ao executar o script, ele exibirá uma caixa de diálogo solicitando ao usuário que escolha o arquivo que deseja mover. Em seguida, exibirá outra caixa de diálogo para escolher a pasta de destino. O script moverá o arquivo selecionado para a pasta de destino e exibirá uma mensagem de sucesso ou erro, conforme apropriado.
